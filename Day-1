@@ -1,0 +1,3 @@
+a= input("Hello, please type your name:  ")
+b= input("Type your home city:  ")
+print("Hello " + " " +" You are "+" " + a +" from "+  b   +" city") 
